@@ -74,7 +74,7 @@ h1{
   letter-spacing:-.6px;
 }
 @media (max-width: 520px){ h1{ font-size:38px; } }
-
+ 
 .sub{ color:var(--muted); font-size:18px; margin:0 0 18px; max-width:60ch; }
 
 .cta-row{ display:flex; gap:12px; flex-wrap:wrap; margin-top:10px; }
