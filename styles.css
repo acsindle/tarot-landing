@@ -106,6 +106,20 @@ h1{
   box-shadow: var(--shadow);
   padding:18px;
 }
+.brand-logo{
+  margin:0 0 16px;
+  display:flex;
+  justify-content:center;
+}
+.brand-logo img{
+  display:block;
+  width:100%;
+  max-width:320px;
+  border-radius:14px;
+  border:1px solid rgba(255,255,255,.08);
+  background:#fff;
+  padding:8px;
+}
 .card h3{ margin:0 0 12px; font-size:16px; letter-spacing:.2px; }
 
 .price-list{ list-style:none; padding:0; margin:0; display:grid; gap:10px; }
